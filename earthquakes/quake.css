@@ -1,0 +1,26 @@
+body {
+    padding: 0;
+    margin: 0;
+   }
+   html, body, #quakemap {
+    height: 100%;
+    width: 100%;
+   }
+
+   /* style for the magnitude legend */
+   .legend {
+    padding: 8px 12px;
+    background: rgba(255, 255, 255, 0.9);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+    border-radius: 5px;
+    line-height: 22px;
+    color: #333;
+   }
+   .legend i {
+    width: 16px;
+    height: 16px;
+    float: left;
+    margin-right: 8px;
+    border-radius: 50%;
+    opacity: 0.85;
+   }
