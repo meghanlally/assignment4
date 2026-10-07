@@ -6,19 +6,19 @@ This assignment uses the Leaflet JavaScript library and free geospatial web APIs
 
 The weather map displays the national precipitation radar layer from the Iowa Environmental Mesonet at Iowa State University and active weather alerts from the NWS API. Alert polygons are drawn in different colors by severity: Extreme (purple), Severe (red), Moderate (orange), and Minor (yellow), and clicking a polygon shows the alert headline. The basemap is the Esri Dark Gray Canvas basemap, whose dark background makes the radar and alert layers stand out.
 
-<https://meghanlally.github.io/Assignment4/weather/>
+<https://meghanlally.github.io/assignment4/weather/>
 
 ## Earthquake Map
 
 The earthquake map shows all earthquakes recorded in the past 24 hours from the USGS real-time earthquake feed. Each earthquake is a circle marker that is sized and color-coded by magnitude, and clicking a marker opens a popup with the earthquake's magnitude, location, and time. A legend in the lower right corner explains the magnitude color scheme.
 
-<https://meghanlally.github.io/YAssignment4/earthquakes/>
+<https://meghanlally.github.io/assignment4/earthquakes/>
 
 ## Bonus: Combined Map
 
 The bonus map combines live NWS weather alerts and USGS earthquake data on a single map. A layer toggle control in the upper left corner lets the user switch the weather radar, weather alert, and earthquake layers on and off.
 
-<https://meghanlally.github.io/Assignment4/combined/>
+<https://meghanlally.github.io/assignment4/combined/>
 
 ## Data Sources
 
